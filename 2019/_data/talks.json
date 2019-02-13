@@ -485,6 +485,22 @@
       "speakers": [
         "388f6f9ee4eb169ce6d936f7ce3952f6aadd211f"
       ]
+    },
+    {
+      "id": "5c5b575a38da160d5d9c8e0f",
+      "title": "Introduction to Micronaut: Lightweight Microservices with Ahead of Time Compilation",
+      "abstract": "In this session, the creator of Micronaut and Grails introduces the newly released Micronaut framework and demonstrates how Micronaut’s unique compile-time approach enables the development of ultra-lightweight Microservices for Java. Compelling aspects of the Micronaut framework include:<br/>* Subsecond startup time<br/>* Small processes that can run in as little as 10 MB of JVM heap<br/>* No runtime reflection\n* Dependency Injection and AOP<br/>* Cloud Native<br/>Graeme will also demonstrate how you can take your Microservices to the next level by using Micronaut's Ahead of Time Compilation (AOT) support and Oracle's GraalVM to achieve instant startup and ultra-low memory footprint.",
+      "type": "talk",
+      "tags": [
+        "Java",
+        "Microservices",
+        "Micronaut",
+        "Cloud Native"
+      ],
+      "level": "beginner",
+      "speakers": [
+        "6c31223d3be1de9ea66a96974ec4f524cd6a786f"
+      ]
     }
   ]
 }

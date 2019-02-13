@@ -368,6 +368,18 @@
     "homepage": "",
     "twitter": "@eMalaGupta",
     "linkedin": "https://www.linkedin.com/in/malagupta/"
+  },
+  {
+    "enabled": "1",
+    "name": "Graeme Rocher",
+    "description": "",
+    "biography": "Graeme Rocher, co-founder of the Grails and Micronaut frameworks and co-author of The Definitive Guide to Grails, serves as Technical Lead for the OCI Grails & Micronaut team.\n\nGraeme has worked in the software development field for more than 20 years and has expertise in Grails, Groovy, Web Development, Dynamic Languages, and the JVM.",
+    "image": "assets/img/speakers/graeme-rocher.jpg",
+    "ref": "6c31223d3be1de9ea66a96974ec4f524cd6a786f",
+    "url": "infoSpeaker.html?ref=6c31223d3be1de9ea66a96974ec4f524cd6a786f",
+    "homepage": "http://micronaut.io",
+    "twitter": "graemerocher",
+    "linkedin": ""
   }
   ]
 }
